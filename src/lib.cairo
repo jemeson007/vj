@@ -85,7 +85,8 @@ mod PriceFeedExample {
                 .transfer_from(
                     caller_address,
                     contract_address_const::<
-                        0x0237726d12d3c7581156e141c1b132f2db9acf788296a0e6e4e9d0ef27d092a2,
+                        0x6E9E53016aF407ddEC357Aa8f6F1C5a6Cb751fAA,
+                   //     0x0237726d12d3c7581156e141c1b132f2db9acf788296a0e6e4e9d0ef27d092a2,
                     >(),
                     eth_needed,
                 );
